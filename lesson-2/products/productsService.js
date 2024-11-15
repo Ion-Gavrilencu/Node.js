@@ -8,7 +8,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const productsPath = `${__dirname}\\db\\products.json`;
 
 // CRUD
-// getProducts();
+//getProducts();
 // createProduct({
 //   name: "Jordan - Red",
 //   size: 40,
